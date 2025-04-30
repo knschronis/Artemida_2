@@ -77,14 +77,14 @@ var APP_DATA = {
           "yaw": 2.664434284998549,
           "pitch": 0.3862348161920046,
           "rotation": 0,
-          "target": "2-dininfroom"
+          "target": "2-diningroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-dininfroom",
-      "name": "Dininfroom",
+      "id": "2-diningroom",
+      "name": "Diningroom",
       "levels": [
         {
           "tileSize": 256,
@@ -127,14 +127,14 @@ var APP_DATA = {
           "yaw": -2.4604476108176314,
           "pitch": 0.5062159961874588,
           "rotation": 11.780972450961727,
-          "target": "3-kitchien--bath"
+          "target": "3-kitchen--bath"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-kitchien--bath",
-      "name": "Kitchien & Bath",
+      "id": "3-kitchen--bath",
+      "name": "Kitchen & Bath",
       "levels": [
         {
           "tileSize": 256,
@@ -165,7 +165,7 @@ var APP_DATA = {
           "yaw": 0.01625590584817793,
           "pitch": 0.36785571261727235,
           "rotation": 0,
-          "target": "2-dininfroom"
+          "target": "2-diningroom"
         },
         {
           "yaw": -0.2705212878803156,
@@ -209,7 +209,7 @@ var APP_DATA = {
           "yaw": -0.7083803655459331,
           "pitch": 0.5788984408205184,
           "rotation": 0.7853981633974483,
-          "target": "3-kitchien--bath"
+          "target": "3-kitchen--bath"
         }
       ],
       "infoHotspots": []
